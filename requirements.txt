@@ -1,0 +1,2 @@
+Trac==1.0.15
+jsonpath_ng==1.4.2
